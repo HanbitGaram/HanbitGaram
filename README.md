@@ -4,6 +4,7 @@
 ## ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ은 누구인ᄀᆞ?
 - 한국어로 한빛가람, ᄋᆞ래ᄋᆞ로 도배ᄒᆞ면 ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ.
 - 전ᄌᆞ우편 : github.external (골뱅이) netko.kr
+- 목표 : 사내 CMS 맹글기
 
 ## ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ의 무른모 최종ᄉᆞ용ᄌᆞ약관
 - [여기를 보시오](https://hanb.jp/license/limit_software_2.html)
