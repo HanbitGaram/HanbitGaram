@@ -1,31 +1,18 @@
-# 환영인사
-- ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ의 정보통신망 무른모관리저장소 알림란에 온 것을 환영ᄒᆞᆸ니ᄃᆞ.
-
-## ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ은 누구인ᄀᆞ?
-- 한국어로 한빛가람, ᄋᆞ래ᄋᆞ로 도배ᄒᆞ면 ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ.
-- 전ᄌᆞ우편 : github.external (골뱅이) netko.kr
-- 목표 : 사내 CMS 맹글기
-
-## ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ의 무른모 최종ᄉᆞ용ᄌᆞ약관
-- [여기를 보시오](https://hanb.jp/license/limit_software_2.html)
-
 ## 비상 연락망
 [❶ 카카오톡](https://hanb.jp/kakao) |
 [❷ 텔레그램](https://t.me/hanbitgaram) |
-[❸ 네이버 톡톡](https://talk.naver.com/ct/w4xlly)
+[❸ 네이버 톡톡](https://talk.naver.com/ct/w4xlly) |
+[❹ 직통전화(United Kingdom)](tel:+44-28-9581-9024)
 
 
 ## 누리집
 ### 일반 누리집
-- [첫 번째 누리집](https://hanb.jp)
-- [머리에 일하기](https://moe.work)
+- [기본 누리집](https://hanb.jp)
 
 ### 봉사기 누리집
-- [새 사회망 봉사기](https://twitter.com/myskys2)
-- [코끼리 사회망 봉사기](https://ani.work)
+- [사회망 누리집](https://ani.work)
 
-## 포트폴리오
-포트폴리ㅗ는 ᄌᆞᆨᅟᅥᆸᅙᆞᅟᅧᆻ뎐 ᄴᆞㅣ트 中 ᅟᅵᆯᄇᆍ만 ᄇᆞᆫᅟᅧᇰ 되ㅓᅟᅵᆻᅟᅳᆷ.
+## 맹근것
 
 ### 도서출판
 
