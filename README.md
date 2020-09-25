@@ -9,6 +9,12 @@
 ## ᄒᆞᆫ빛ᄀᆞᄅᆞᆷ의 무른모 최종ᄉᆞ용ᄌᆞ약관
 - [여기를 보시오](https://hanb.jp/license/limit_software_2.html)
 
+## 비상 연락망
+[❶ 카카오톡](https://hanb.jp/kakao) |
+[❷ 텔레그램](https://t.me/hanbitgaram) |
+[❸ 네이버 톡톡](https://talk.naver.com/ct/w4xlly)
+
+
 ## 누리집
 ### 일반 누리집
 - [첫 번째 누리집](https://hanb.jp)
