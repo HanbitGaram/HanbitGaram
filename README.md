@@ -1,3 +1,16 @@
+# 자기소개（自己紹介）
+
+<details>
+<summary>日本人はここに</summary>
+<div markdown="1">
+  <h2>緊急連絡網</h2>
+  <a href="https://hanb.jp/kakao" target="_blank">❶ カカオトーク</a> |
+  <a href="https://t.me/hanbitgaram" target="_blank">❷ テレグラム</a> |
+  <a href="https://talk.naver.com/ct/w4xlly" target="_blank">❸ ネイバートーク</a> |
+  <a href="tel:+44-28-9581-9024" target="_blank">❹ 英国・イギリス電話番号</a>
+</div>
+</details>
+
 ## 비상 연락망
 [❶ 카카오톡](https://hanb.jp/kakao) |
 [❷ 텔레그램](https://t.me/hanbitgaram) |
