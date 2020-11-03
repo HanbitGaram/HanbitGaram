@@ -28,7 +28,10 @@
 ## 맹근것
 
 ### 도서출판
-
+<details>
+<summary>펼치기</summary>
+<div markdown="1">
+  
 #### 도서출판 모에워크 (https://books.moe.work)
 - [PHP&MySQL 보안 비법서](http://seoji.nl.go.kr/landingPage?isbn=9791197144004)
   - 저자: 한빛가람(이서현)
@@ -37,7 +40,14 @@
   - 저자: 박진선
   - 편집: 김시원
 
+</div>
+</details>
+
 ### 웹사이트
+
+<details>
+<summary>펼치기</summary>
+<div markdown="1">
 
 #### 플랭킷IT협동조합
 - 2020.03~2020.04 어르신 돌봄케어 사이트 [하루여가](http://haruyeoga.com/) 사이트 퍼블리싱 및 개발
@@ -62,9 +72,15 @@
 #### 개인 프로젝트
 - 2016~현재진행형 모에워크 엔터테인먼트(구:모에모에) 사이트 제작,디자인,퍼블리싱 및 유지보수 총괄
 
+</div>
+</details>
+
 ----
 
 ### 모바일 애플리케이션
+<details>
+<summary>펼치기</summary>
+<div markdown="1">
 
 #### 플랭킷IT협동조합
 - 2020.03~2020.04 어르신 돌봄케어 사이트 [하루여가](http://haruyeoga.com/) 애플리케이션 개발
@@ -77,6 +93,8 @@
 
 #### (주)바른웹
 - 2017.08~2018.01 [아쿠마마린 키즈스윔](http://www.aqmarine.co.kr/) 강사용/학부모용 AOS/iOS 애플리케이션 개발,디자인,퍼블리싱
+</div>
+</details>
 
 ### 서버
 - 2018.12~2019.06 컬쳐커넥트 공연 전용 서버 셋팅, 유지보수 및 관리
