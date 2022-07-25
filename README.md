@@ -1,7 +1,7 @@
 ## 🐘 HanbitGaram
 ### 💻 Recent Work
 - Release and distribution of music
-- Web, server programming
+- Web, Server, TCP/IP Programming
 - Network Management
 
 ### ✈️ Business Scope
