@@ -1,4 +1,4 @@
-## 🐘 HanbitGaram
+## 🐘 HanbitGaram (a.k.a SeoHyeon, kanatiest)
 ### 💻 Recent Work
 - Release and distribution of music
 - Web, Server, TCP/IP Programming
