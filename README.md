@@ -1,4 +1,9 @@
 ## 🐘 HanbitGaram (a.k.a SeoHyeon, kanatiest)
+Hello, I'm `HanbitGaram`, the wizard of `P`.
+
+Since I have a lot of work to do, I am working in many different countries.<br>
+Brief information about me is described below.
+
 ### 💻 Recent Work
 - Release and distribution of music
 - Web, Server, TCP/IP Programming
