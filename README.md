@@ -25,3 +25,4 @@ Brief information about me is described below.
 - [MUESLI Co., Ltd. (株式会社ミューズリー)](https://muesli.work)
 - [YAGUMYAGUM](https://ygygcoop.com) / [AS210576](https://bgp.tools/as/210576)
 - [Aniwork Network](https://ani.work)
+- [PayPal.Me - kanatiest](https://paypal.me/kanatiest)
