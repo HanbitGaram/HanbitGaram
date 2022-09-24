@@ -7,6 +7,8 @@ Brief information about me is described below.
 If you need me to request work,<br>
 please leave an email in English, Japanese, or Korean.
 
+As I live in London TZ, I may be late to ask and answer questions.
+
 ### 💻 Recent Work
 - Release and distribution of music
 - Web, Server, TCP/IP Programming
