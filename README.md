@@ -28,9 +28,8 @@ As I live in London TZ, I may be late to ask and answer questions.
   - Direct Operation
 
 ### 🌐 Networking
-![AS210576](https://bgp.he.net/graphs/as210576-ipv6.svg?1658746321)
 - AS210576
-- More to be added (RIPE LIR)
+- AS202464
 
 ### 🔗 Links
 - [MUESLI Co., Ltd. (株式会社ミューズリー)](https://muesli.work)
