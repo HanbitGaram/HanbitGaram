@@ -27,6 +27,13 @@ As I live in London TZ, I may be late to ask and answer questions.
 - [PiniEngine Wiki](http://pinki.hanb.jp/)
   - Direct Operation
 
+### Main Language
+- 🇰🇷 Korean
+- Default (HTML4/5, CSS2/3, ES5\~7, PHP4\~8)
+- PHP(XpressEngine, Gnuboard, CI4+, Laravel5+, etc Zend or OOP)
+- JS(NodeJS, React)
+- Etc(Java, C#, Python, Perl, Cordova-PhoneGap)
+
 ### 🌐 Networking
 - AS210576
 - AS202464
@@ -36,4 +43,4 @@ As I live in London TZ, I may be late to ask and answer questions.
 - [YAGUMYAGUM](https://ygygcoop.com) / [AS210576](https://bgp.tools/as/210576)
 - [Aniwork Network](https://ani.work)
 - [PayPal.Me - kanatiest](https://paypal.me/kanatiest)
-- Elysia Root L.C. - Preparing...!
+- [Elysia Root L.C.](https://elysia-root.com)
