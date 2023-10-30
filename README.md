@@ -1,4 +1,9 @@
 ## 🐘 HanbitGaram (a.k.a SeoHyeon, kanatiest)
+```php
+<?php
+// Hello, Github!
+echo shell_exec("php -r \"eval(\\\"echo 'Hello, Github!';\\\");\"");
+```
 Hello, I'm `HanbitGaram`, the wizard of `P`.
 
 Since I have a lot of work to do, I am working in many different countries.<br>
