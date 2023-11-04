@@ -36,16 +36,18 @@ As I live in London TZ, I may be late to ask and answer questions.
 
 ### Main Language
 - 🇰🇷 Korean
-- Default (__HTML4/5, CSS2/3__, ES5\~7, __PHP4\~8__)
+- Default (HTML4/5, CSS2/3, ES5\~7, PHP4\~8)
 - PHP(XpressEngine, Gnuboard, CI4+, Laravel5+, etc Zend or OOP)
 - JS(NodeJS, React)
-- Etc(~~Java~~, C#, Python, Perl, __Cordova-PhoneGap__)
+- Etc(Java, C#, Python, Perl, Cordova-PhoneGap)
 
 ### 🌐 Networking
 - AS210576
 - AS202464
 
 ### 🔗 Links
-- [Youtube](https://www.youtube.com/@leeseohyeon/)
+- [MUESLI Co., Ltd. (株式会社ミューズリー)](https://muesli.work)
+- [YAGUMYAGUM](https://ygygcoop.com) / [AS210576](https://bgp.tools/as/210576)
+- [Aniwork Network](https://ani.work)
 - [PayPal.Me - kanatiest](https://paypal.me/kanatiest)
-- [NETKO - Misskey](https://netko.kr/)
+- [Elysia Root L.C.](https://elysia-root.com)
