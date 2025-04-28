@@ -39,15 +39,16 @@ As I live in London TZ, I may be late to ask and answer questions.
 - Default (HTML4/5, CSS2/3, ES5\~7, PHP4\~8)
 - PHP(XpressEngine, Gnuboard, CI4+, Laravel5+, etc Zend or OOP)
 - JS(NodeJS, React)
+- TS(React, NextJS)
 - Etc(Java, C#, Python, Perl, Cordova-PhoneGap)
 
 ### 🌐 Networking
 - AS210576
-- AS202464
 
 ### 🔗 Links
+- [Elysia Root L.C.](https://elysia-root.com)
+- [Aniwork Network](https://ani.work)
+- [Nyanachi Studio](https://nyanachi.com)
 - [MUESLI Co., Ltd. (株式会社ミューズリー)](https://muesli.work)
 - [YAGUMYAGUM](https://ygygcoop.com) / [AS210576](https://bgp.tools/as/210576)
-- [Aniwork Network](https://ani.work)
 - [PayPal.Me - kanatiest](https://paypal.me/kanatiest)
-- [Elysia Root L.C.](https://elysia-root.com)
