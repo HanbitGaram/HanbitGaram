@@ -12,7 +12,7 @@ Brief information about me is described below.
 If you need me to request work,<br>
 please leave an email in English, Japanese, or Korean.
 
-As I live in London TZ, I may be late to ask and answer questions.
+As I live in Japan, I may be late to ask and answer questions.
 
 ### 💻 Recent Work
 - Release and distribution of music
@@ -40,7 +40,15 @@ As I live in London TZ, I may be late to ask and answer questions.
 - PHP(XpressEngine, Gnuboard, CI4+, Laravel5+, etc Zend or OOP)
 - JS(NodeJS, React)
 - TS(React, NextJS)
-- Etc(Java, C#, Python, Perl, Cordova-PhoneGap)
+- C# (Windows Programming)
+- Mobile(React Native, Cordova, PhoneGap)
+
+### Sub Language
+- Etc(Java, Python, Perl)
+
+### Learning Language
+- Golang
+- Rust
 
 ### 🌐 Networking
 - AS210576
